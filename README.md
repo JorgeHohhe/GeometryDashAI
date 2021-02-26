@@ -4,7 +4,7 @@ An AI that plays Geometry Dash using the NEAT python module.
 
 # Instructions
 
-You can run main.py and watch an AI start training itself to play the game.
+You can run mainGD.py with NEATconfig.txt in same folder and watch an AI start training itself to play the game.
 
 # Videos and Progression
 
